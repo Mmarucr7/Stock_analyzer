@@ -1,6 +1,3 @@
-Sure — here is a clean and short README you can use:
-
-⸻
 
 Stock Analyzer
 
